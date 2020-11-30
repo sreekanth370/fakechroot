@@ -1,7 +1,9 @@
 dist: bionic
 
 language: c
-
+arch:
+      - amd64
+      - ppc64le
 os:
   - linux
 
